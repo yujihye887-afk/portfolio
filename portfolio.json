@@ -6,10 +6,10 @@
     {
       "week": 1,
       "title": "Feel Test",
-      "line": "서울에 눈이 얼마나 오는지 다섯 문항으로 맞혀 보는 퀴즈. 폰에서 풀 수 있습니다",
-      "judgment": "눈 온 날을 하루 1cm 이상으로 정하고 그 기준을 문항 문장에 넣었다. 정답 하나는 엑셀로 직접 세어 맞췄다",
+      "line": "연간 군산시 유명명소를 방문하는 횟수가 궁금하시죠?",
+      "judgment": "군산시 방문객 수가 궁금했다.",
       "ai": ["Claude Code", "v0", "Perplexity"],
-      "url": "https://gam-test-cyan.vercel.app/",
+      "url": "https://portfolio-nfnt.vercel.app",
       "img": "img/w1.jpg"
     }
   ],
