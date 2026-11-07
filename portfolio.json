@@ -1,6 +1,6 @@
 {
   "owner": "유쌤",
-  "headline": "학교 정보보안 분류기",
+  "headline": "포트폴리오 하나씩 쌓기",
   "intro": "매주 하나씩 만들어 올립니다. 도구마다 제가 내린 판단이 하나씩 들어 있습니다.",
   "cards": [
     {
@@ -14,12 +14,12 @@
     },
     {
       "week": 2,
-      "title": "학교 정보보안 분류기 — 빈 폴더에서",
+      "title": "학교 정보보안 분류기",
       "line": "보안문제 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
       "judgment": "보안을 놓치는 것을 가장 나쁜 실수로 정했다. 규칙은 보안 4건을 모두 놓쳤다. 채점용 30개의 정답은 AI의 의도를 가린 채 내가 붙였고, 6개가 갈렸다",
       "ai": ["Claude Code", "Gemini"],
       "url": "https://my-classifier-teacher.vercel.app",
-      "img": ""
+      "img": "img/w2.png"
     }
   ],
   "proposal": null
