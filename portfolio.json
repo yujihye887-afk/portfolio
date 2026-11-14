@@ -20,6 +20,15 @@
       "ai": ["Claude Code", "Gemini"],
       "url": "https://my-classifier-teacher.vercel.app",
       "img": "img/w2.png"
+    },
+    {
+      "week": 3,
+      "title": "출장비 정산 정리기 — 빈 폴더에서",
+      "line": "출장비 엑셀을 끌어다 놓으면 내 처방대로 정리본과 바꾼 기록이 나옵니다. 파일은 브라우저를 떠나지 않습니다",
+      "judgment": "금액이 의심스러운 줄은 고치지 않고 표시했다. 표시하지 않은 줄의 합계는 정답과 13만 2천 원 차이였고, 그 한 줄은 진단에서 찾고도 처방을 적지 않은 음수 교통비였다.",
+      "ai": ["Claude Code"],
+      "url": "https://my-cleaner-azure.vercel.app/",
+      "img": ""
     }
   ],
   "proposal": null
