@@ -29,6 +29,15 @@
       "ai": ["Claude Code"],
       "url": "https://my-cleaner-azure.vercel.app/",
       "img": ""
+    },
+    {
+      "week": 4,
+      "title": "월간 보고 SQL 앱",
+      "line": "매달 추출한 엑셀을 넣으면 정해 둔 질문의 답이 SQL과 함께 나옵니다",
+      "judgment": "재문의는 비율(해지 36.0%)과 건수(요금 2,053건)를 같이 보기로 정했다",
+      "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"],
+      "url": "https://sql-window-59gp16thq-edate9.vercel.app/",
+      "img": ""
     }
   ],
   "proposal": null
